@@ -1,5 +1,7 @@
-# Book List App
+# Digital Clock with JavaScript
 
-Booklist Inventory app
+[Booklist app] is a project which is a part of the Series [_Vanilla JavaScript Project ]
 
-screenshot './screenshot.png'
+## Project Screenshot
+
+<img src="./screenshot.jpg">
